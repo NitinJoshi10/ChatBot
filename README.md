@@ -2,7 +2,7 @@
 
 **What is this?**
 
-This is a simple chatbot program that you can interact with using text messages. It's like talking to a robot that understands what you're saying and tries to respond appropriately.
+This is a chatbot program that you can interact with using text messages. It's like talking to a robot that understands what you're saying and tries to respond appropriately.
 
 **How does it work?**
 
