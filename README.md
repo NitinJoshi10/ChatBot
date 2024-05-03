@@ -2,7 +2,7 @@
 
 # Chatbot with Flask and TensorFlow/Keras
 
-This is a simple chatbot application built using Flask for the backend and TensorFlow/Keras for the chatbot model. Users can interact with the chatbot through a web interface where they can input messages, and the chatbot will respond with appropriate answers based on the trained model.
+This is a simple chatbot application built using Flask and TensorFlow/Keras for the chatbot model. Users can interact with the chatbot through a web interface where they can input messages, and the chatbot will respond with appropriate answers based on the trained model.
 
 ## Project Structure
 
@@ -63,7 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-## More Information
+# More Information
 
 
 
