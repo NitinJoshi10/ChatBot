@@ -17,11 +17,11 @@ nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
 
 # Load intents data from a JSON file
-data = json.loads(open('data/data.json').read())
+data = json.loads(open('../data/data.json').read())
 
 # Load preprocessed data and trained model
-words = pickle.load(open('word_list.pkl', 'rb'))   # Load preprocessed words data
-classes = pickle.load(open('tag_list.pkl', 'rb'))  # Load preprocessed classes data
+words = pickle.load(open('../word_list.pkl', 'rb'))   # Load preprocessed words data
+classes = pickle.load(open('../tag_list.pkl', 'rb'))  # Load preprocessed classes data
 model = load_model('chatbot_model.h5')             # Load pre-trained model
 
 # Function to clean up sentence by tokenizing and lemmatizing words
