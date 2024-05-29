@@ -90,8 +90,5 @@ This is a chatbot program that you can interact with using text messages. It's l
 
 This chatbot was created to demonstrate how computers can understand and respond to human language. It's a fun project to show how artificial intelligence can be used to interact with people in a conversational way.
 
-**Who made it?**
-
-This chatbot was made by Nitin Joshi as a personal project. It's not perfect, but it's a good starting point for learning about natural language processing and chatbot development.
 
 **Have fun chatting!**
